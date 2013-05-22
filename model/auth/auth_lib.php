@@ -3,7 +3,7 @@
 function processAuth($user, $pass) {
 
     $userList = array();
-    $userList["john"]  = "test1234";
+    $userList["john"]  = "1234";
     $userList["admin"] = "admin1234";
     $userList["user"]  = "user1234";
 
